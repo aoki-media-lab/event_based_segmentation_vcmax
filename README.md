@@ -5,7 +5,7 @@ CVPR 2025 Workshop on Event Vision,
 by Ryo Yamaki, [Shintaro Shiba](http://shibashintaro.com/), [Guillermo Callego](https://sites.google.com/view/guillermogallego), and [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/).
 
 
-If you use this work in your research, please cite it (see also [here](#citation)):
+If you use this work in your research, please cite it:
 
 ```bibtex
 @Article{Yamaki25cvprw,
