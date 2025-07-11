@@ -1,5 +1,22 @@
 # Iterative Event-based Motion Segmentation by Variational Contrast Maximization
 
+The official repository for [**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**](https://arxiv.org/abs/2504.18447),
+CVPR 2025 Workshop on Event Vision,
+by Ryo Yamaki, [Shintaro Shiba](http://shibashintaro.com/), [Guillermo Callego](https://sites.google.com/view/guillermogallego), and [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/).
+
+
+If you use this work in your research, please cite it (see also [here](#citation)):
+
+```bibtex
+@Article{Yamaki25cvprw,
+  author        = {Ryo Yamaki and Shintaro Shiba and Guillermo Gallego and Yoshimitsu Aoki},
+  title         = {Iterative Event-based Motion Segmentation by Variational Contrast Maximization},
+  journal       = {CVPR Workshop on Event Vision},
+  year          = 2025,
+}
+```
+
+
 <p align="center">
   <a href="https://arxiv.org/pdf/2504.18447" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv%3A2504.18447-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv Paper">
@@ -15,3 +32,11 @@ Event cameras provide rich signals that are suitable for motion estimation since
     <img src="https://img.youtube.com/vi/D4s-mj_h5oQ/0.jpg" alt="Method" width="560">
   </a>
 </p>
+
+-------
+# Additional Resources
+
+* [Research page (Keio University, Aoki Media Lab)](https://aoki-medialab.jp/home-en/)
+* [Research page (TU Berlin, RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
+* [Survey paper](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
+* [List of Resources](https://github.com/uzh-rpg/event-based_vision_resources)
